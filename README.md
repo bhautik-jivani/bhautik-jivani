@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, Flask**
 
-- 💬 Ask me about **python, django, oracle, postgres**
+- 💬 Ask me about **Python, Django, Django Rest-Framework, Postgres, Oracle, jQuery, Ajax**
 
 - 📫 How to reach me **jivanibhautik@gmail.com**
 

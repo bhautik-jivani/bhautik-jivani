@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhautik Jivani</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
-- 🔭 I’m currently working on [SlickServices](https://www.slickservices.in/)
+- 🔭 I’m currently working on [Wama Technology](https://www.wamatechnology.com/)
 
-- 🌱 I’m currently learning **Angular, Flask**
+- 🌱 I’m currently learning **React, AWS**
 
-- 💬 Ask me about **Python, Django, Django Rest-Framework, Postgres, Oracle, jQuery, Ajax**
+- 💬 Ask me about **Python, Django, Django Rest-Framework, Django Tenants, Postgres, MongoDB, jQuery, Ajax**
 
 - 📫 How to reach me **jivanibhautik@gmail.com**
 

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Wama Technology](https://www.wamatechnology.com/)
 
-- 🌱 I’m currently learning **React, AWS**
+- 🌱 I’m currently learning **Angular, AWS**
 
 - 💬 Ask me about **Python, Django, Django Rest-Framework, Django Tenants, Postgres, MongoDB, jQuery, Ajax**
 
